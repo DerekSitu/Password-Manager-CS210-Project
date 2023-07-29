@@ -1,20 +1,13 @@
 #PassMan
 ## A password manager
 
+note for users: the master password is "password"
+
 Improve your cyber security and never lose a password again!
 
 *PassMan* is a password manager app that remembers your passwords for you, so you can set a unique, difficult-to-crack
 password for each site you visit. All you have to do is remember your master password. And don't worry, only your 
 encrypted passwords are stored, so even if *PassMan* suffers a data breach, your passwords have to be decrypted first.
-
-## Some background
-A couple of days ago, within a span of 24 hours, I received emails from multiple social media sites notifying me that 
-suspicious logins and attempted logins were detected on my accounts. Probably, I have managed to register on too many 
-websites with bad security, with the same email and password! These are all old accounts that I have not changed the
-passwords to in a long time. Once one site had a data breach, all of my other accounts with the same login info were
-in danger.
-
-I have been interested in password managers since, hence my inspiration to create my own. 
 
 ## User Stories
 - As a user, I want to be able to create a new login and add it to my list of logins
